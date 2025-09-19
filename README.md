@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an implementation of MuZero 
-- 🌱 I’m currently learning Statistics and Reinforcement learning
+- 🔭 I’m currently working on an implementation of IQN, teaching an RL agent to play trackmania
 
 Check out some of my cool projects, like an implementation of AlphaZero playing chess, or an implementation of NEAT playing super mario!
 
