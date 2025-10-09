@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an implementation of IQN, teaching an RL agent to play trackmania
+- 🔭 Currently implementing **IQN (Implicit Quantile Networks)** — teaching an RL agent to master **Trackmania**  
+- 🛠️ Developing the [**OpenBridge Component Library**](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents-jip)  
 
-Check out some of my cool projects, like an implementation of AlphaZero playing chess, or an implementation of NEAT playing super mario!
+---
 
- <!--- stats & Trophy (start) -->
+♟️ Check out some of my previous projects:  
+- [**AlphaZero** playing chess](https://github.com/CogitoNTNU/Deeptactics-AlphaZero)  
+- [**NEAT** evolving Super Mario agents](https://github.com/CogitoNTNU/NEATactics)  
+- [**MuZero** learning to play (almost) anything](https://github.com/CogitoNTNU/DeepTactics-Muzero)  
+
+---
+
 <p align="center">
-  <!--- stats (start) -->
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ludvigovrevik&theme=dark&show_icons=true&count_private=true" />
-
-
-
-</table>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=ludvigovrevik&theme=dark&show_icons=true&count_private=true" 
+  />
+</p>
