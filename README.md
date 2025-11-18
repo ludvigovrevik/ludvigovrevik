@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-- 🔭 Currently implementing **IQN (Implicit Quantile Networks)** — teaching an RL agent to master **Trackmania**  
+- 🏆 Norwegian AI Championship 2025 🥇 1st Place in Computer Vision & 🥈 2nd Overall.
+- Leading a team at Cogito NTNU, we are currently implementing **IQN (Implicit Quantile Networks)** — teaching an RL agent to master **Trackmania**  
 - 🛠️ Developing the [**OpenBridge Component Library**](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents-jip)  
 
 ---
