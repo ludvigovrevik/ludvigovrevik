@@ -6,9 +6,8 @@
 - Multiple-time hackathon winner across AI, CV, and systems challenges  
 
 ### 🚀 What I'm Working On
-- Leading a team at **Cogito NTNU**, implementing **Beyond The Rainbow** to train an RL agent to master **Trackmania**
-- Building the **OpenBridge Component Library** for maritime UI design  
-  ➜ https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents-jip
+- Leading a team at **Cogito NTNU**, implementing **AlphaZero**
+- Building the official **OpenBridge Component Library** ➜ https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents
 
 ### 🎓 Education
 - **Bachelor in Computer Science**, NTNU Trondheim  
